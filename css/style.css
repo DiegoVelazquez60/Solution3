@@ -40,14 +40,14 @@ div.card{
 }
 
 @media (max-width: 1024px){
-    card{
+    div.card{
         margin: 15vh 10vw;
         background-size: 120% 37%;
     }
 }
 
 @media (max-width: 299px) {
-    card{
+    div.card{
         margin: 2.5vh 2.5vw;
         width: 95vw;
         height: 95vh;
