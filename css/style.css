@@ -26,7 +26,7 @@ main{
     min-height: 100vh;
 }
 
-card{
+div.card{
     margin: 20vh 35vw;
     width: 75vmax;
     background-color: #fff;
